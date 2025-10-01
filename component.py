@@ -1,7 +1,7 @@
 from typing import TypedDict
 
+import julienp_test_org_provider_nested as provider_nested
 import pulumi
-import pulumi_provider_nested as provider_nested
 
 
 class Args(TypedDict): ...
