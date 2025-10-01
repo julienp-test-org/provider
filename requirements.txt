@@ -1,0 +1,2 @@
+sdks/julienp-test-org-provider-nested
+pulumi

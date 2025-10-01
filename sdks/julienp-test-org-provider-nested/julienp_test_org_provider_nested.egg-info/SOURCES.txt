@@ -1,0 +1,13 @@
+setup.py
+julienp_test_org_provider_nested/__init__.py
+julienp_test_org_provider_nested/_utilities.py
+julienp_test_org_provider_nested/nested_component.py
+julienp_test_org_provider_nested/provider.py
+julienp_test_org_provider_nested/pulumi-plugin.json
+julienp_test_org_provider_nested/py.typed
+julienp_test_org_provider_nested.egg-info/PKG-INFO
+julienp_test_org_provider_nested.egg-info/SOURCES.txt
+julienp_test_org_provider_nested.egg-info/dependency_links.txt
+julienp_test_org_provider_nested.egg-info/not-zip-safe
+julienp_test_org_provider_nested.egg-info/requires.txt
+julienp_test_org_provider_nested.egg-info/top_level.txt

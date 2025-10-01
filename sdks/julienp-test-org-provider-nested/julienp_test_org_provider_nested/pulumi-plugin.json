@@ -1,0 +1,6 @@
+{
+  "resource": true,
+  "name": "provider-nested",
+  "version": "0.0.0-x33b3d8464d09db8b23f37bf6024d7f0c9ee05d33",
+  "server": "git://github.com/julienp-test-org/provider-nested"
+}
